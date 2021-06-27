@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="new_app_name">Avengers</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="forgot_password">Forgot Password</string>
+</resources>
